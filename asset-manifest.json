@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/amv-psicologia/static/css/main.d1b05096.chunk.css",
+    "main.js": "/amv-psicologia/static/js/main.48659ab4.chunk.js",
+    "main.js.map": "/amv-psicologia/static/js/main.48659ab4.chunk.js.map",
+    "runtime-main.js": "/amv-psicologia/static/js/runtime-main.f95324e5.js",
+    "runtime-main.js.map": "/amv-psicologia/static/js/runtime-main.f95324e5.js.map",
+    "static/js/2.3dabd2a5.chunk.js": "/amv-psicologia/static/js/2.3dabd2a5.chunk.js",
+    "static/js/2.3dabd2a5.chunk.js.map": "/amv-psicologia/static/js/2.3dabd2a5.chunk.js.map",
+    "index.html": "/amv-psicologia/index.html",
+    "precache-manifest.406ff500ad560b488530ab8af1a1b2eb.js": "/amv-psicologia/precache-manifest.406ff500ad560b488530ab8af1a1b2eb.js",
+    "service-worker.js": "/amv-psicologia/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/amv-psicologia/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3dabd2a5.chunk.js.LICENSE.txt": "/amv-psicologia/static/js/2.3dabd2a5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/amv-psicologia/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f95324e5.js",
+    "static/js/2.3dabd2a5.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.48659ab4.chunk.js"
+  ]
+}
