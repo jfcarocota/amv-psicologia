@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/amv-psicologia/static/css/main.d1b05096.chunk.css",
-    "main.js": "/amv-psicologia/static/js/main.73f6d419.chunk.js",
-    "main.js.map": "/amv-psicologia/static/js/main.73f6d419.chunk.js.map",
+    "main.css": "/amv-psicologia/static/css/main.1a9e4d2b.chunk.css",
+    "main.js": "/amv-psicologia/static/js/main.324a2490.chunk.js",
+    "main.js.map": "/amv-psicologia/static/js/main.324a2490.chunk.js.map",
     "runtime-main.js": "/amv-psicologia/static/js/runtime-main.f95324e5.js",
     "runtime-main.js.map": "/amv-psicologia/static/js/runtime-main.f95324e5.js.map",
-    "static/js/2.8646a711.chunk.js": "/amv-psicologia/static/js/2.8646a711.chunk.js",
-    "static/js/2.8646a711.chunk.js.map": "/amv-psicologia/static/js/2.8646a711.chunk.js.map",
+    "static/js/2.9211e281.chunk.js": "/amv-psicologia/static/js/2.9211e281.chunk.js",
+    "static/js/2.9211e281.chunk.js.map": "/amv-psicologia/static/js/2.9211e281.chunk.js.map",
     "index.html": "/amv-psicologia/index.html",
-    "precache-manifest.5e8ae8202a406ea07a73fe6c71b2c22d.js": "/amv-psicologia/precache-manifest.5e8ae8202a406ea07a73fe6c71b2c22d.js",
+    "precache-manifest.249135948c87720477717b648f49e9c5.js": "/amv-psicologia/precache-manifest.249135948c87720477717b648f49e9c5.js",
     "service-worker.js": "/amv-psicologia/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/amv-psicologia/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.8646a711.chunk.js.LICENSE.txt": "/amv-psicologia/static/js/2.8646a711.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/amv-psicologia/static/media/logo.5d5d9eef.svg"
+    "static/css/main.1a9e4d2b.chunk.css.map": "/amv-psicologia/static/css/main.1a9e4d2b.chunk.css.map",
+    "static/js/2.9211e281.chunk.js.LICENSE.txt": "/amv-psicologia/static/js/2.9211e281.chunk.js.LICENSE.txt",
+    "static/media/arnulfo.jpg": "/amv-psicologia/static/media/arnulfo.93389495.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f95324e5.js",
-    "static/js/2.8646a711.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.73f6d419.chunk.js"
+    "static/js/2.9211e281.chunk.js",
+    "static/css/main.1a9e4d2b.chunk.css",
+    "static/js/main.324a2490.chunk.js"
   ]
 }
