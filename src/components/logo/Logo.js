@@ -8,6 +8,7 @@ export default class Logo extends React.Component{
             color : props.color ? props.color :'#fff'  
         }
     }
+    
     render(){
         const {name, color} = this.state;
         return(
