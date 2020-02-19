@@ -4,18 +4,19 @@ export default class Logo extends React.Component{
     constructor(props){
         super(props);
         this.state = {
-            name : props.name ? props.name : 'Psicologo Arnulfo Marquez Navarro',
+            name : props.name ? props.name : 'Psicólogo Arnulfo',
             color : props.color ? props.color :'#fff'  
         }
     }
     render(){
         const {name, color} = this.state;
         return(
-             <h1 
+             <a href="#page-top"
+                className="navbar-brand js-scroll-trigger"
                 style={{
                     color: color
                 }}
-            >{name}</h1>
+            >{name}</a>
         );
     }
 }
