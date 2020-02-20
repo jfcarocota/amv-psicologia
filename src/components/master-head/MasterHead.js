@@ -14,7 +14,7 @@ export default class MasterHead extends React.Component{
                 <div className="container d-flex align-items-center flex-column">
                     <ProfileImage picture={profile}/>
                     <TitlePerson name="Lic. Arnulfo Márquez Navarro" color="#fff"/>
-                    <Devider/>
+                    <Devider colorMode={1}/>
                 </div>
                     <LabelDescription label={areas}/>
             </header>
