@@ -5,7 +5,7 @@ export default class Container extends React.Component{
         super(props);
         this.state = {
             content : props.content ? props.content : 'Your content here',
-            flex : props.felx == 1 ? 'container d-flex align-items-center flex-column' : 'container'
+            flex : props.felx === 1 ? 'container d-flex align-items-center flex-column' : 'container'
         }
     }
 
