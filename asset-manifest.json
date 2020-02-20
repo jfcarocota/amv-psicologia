@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/amv-psicologia/static/css/main.1a9e4d2b.chunk.css",
-    "main.js": "/amv-psicologia/static/js/main.6b4dc60b.chunk.js",
-    "main.js.map": "/amv-psicologia/static/js/main.6b4dc60b.chunk.js.map",
+    "main.js": "/amv-psicologia/static/js/main.1e02e434.chunk.js",
+    "main.js.map": "/amv-psicologia/static/js/main.1e02e434.chunk.js.map",
     "runtime-main.js": "/amv-psicologia/static/js/runtime-main.f95324e5.js",
     "runtime-main.js.map": "/amv-psicologia/static/js/runtime-main.f95324e5.js.map",
-    "static/js/2.76c9beb2.chunk.js": "/amv-psicologia/static/js/2.76c9beb2.chunk.js",
-    "static/js/2.76c9beb2.chunk.js.map": "/amv-psicologia/static/js/2.76c9beb2.chunk.js.map",
+    "static/js/2.b1aecda1.chunk.js": "/amv-psicologia/static/js/2.b1aecda1.chunk.js",
+    "static/js/2.b1aecda1.chunk.js.map": "/amv-psicologia/static/js/2.b1aecda1.chunk.js.map",
     "index.html": "/amv-psicologia/index.html",
-    "precache-manifest.0d08df818cb64ac0a3cd07f3ad8d71cd.js": "/amv-psicologia/precache-manifest.0d08df818cb64ac0a3cd07f3ad8d71cd.js",
+    "precache-manifest.25e55775d2fc359741a79ffa559788c4.js": "/amv-psicologia/precache-manifest.25e55775d2fc359741a79ffa559788c4.js",
     "service-worker.js": "/amv-psicologia/service-worker.js",
     "static/css/main.1a9e4d2b.chunk.css.map": "/amv-psicologia/static/css/main.1a9e4d2b.chunk.css.map",
-    "static/js/2.76c9beb2.chunk.js.LICENSE.txt": "/amv-psicologia/static/js/2.76c9beb2.chunk.js.LICENSE.txt",
+    "static/js/2.b1aecda1.chunk.js.LICENSE.txt": "/amv-psicologia/static/js/2.b1aecda1.chunk.js.LICENSE.txt",
     "static/media/arnulfo.jpg": "/amv-psicologia/static/media/arnulfo.93389495.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f95324e5.js",
-    "static/js/2.76c9beb2.chunk.js",
+    "static/js/2.b1aecda1.chunk.js",
     "static/css/main.1a9e4d2b.chunk.css",
-    "static/js/main.6b4dc60b.chunk.js"
+    "static/js/main.1e02e434.chunk.js"
   ]
 }
