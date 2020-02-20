@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5cbf08f5c2b6414546358d82272ff1c2",
+    "revision": "fb37c322aae977b9107204d0ba186062",
     "url": "/amv-psicologia/index.html"
   },
   {
-    "revision": "e5a58232339d0e5c70c6",
+    "revision": "f2a75cb1c138abf513e7",
     "url": "/amv-psicologia/static/css/main.1a9e4d2b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amv-psicologia/static/js/2.b1aecda1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e5a58232339d0e5c70c6",
-    "url": "/amv-psicologia/static/js/main.1e02e434.chunk.js"
+    "revision": "f2a75cb1c138abf513e7",
+    "url": "/amv-psicologia/static/js/main.f3b45f05.chunk.js"
   },
   {
     "revision": "76133daa3ba5cc254348",
