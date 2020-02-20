@@ -11,18 +11,18 @@ export default class GridInfo extends React.Component{
             <section class="page-section portfolio" id="portfolio">
                 <div class="container">
 
-                <TitleSection name="Clínica" color="#000"/>
+                    <TitleSection name="Clínica" color="#000"/>
 
-                <Devider/>
+                    <Devider/>
 
-                <div class="row">
-                    <GridElement/>
-                    <GridElement/>
-                    <GridElement/>
-                    <GridElement/>
-                    <GridElement/>
-                    <GridElement/>
-                </div>
+                    <div class="row">
+                        <GridElement/>
+                        <GridElement/>
+                        <GridElement/>
+                        <GridElement/>
+                        <GridElement/>
+                        <GridElement/>
+                    </div>
 
                 </div>
             </section>
