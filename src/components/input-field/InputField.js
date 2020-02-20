@@ -1,14 +1,7 @@
 import React from 'react'
+import FieldItem from '../field-item/FieldItem';
 
-export default class InputField extends React.Component{
-    
-    constructor(props){
-        super(props);
-
-        this.state = {
-            placeholder : props.placeholder ? props.placeholder : 'Name' 
-        }
-    }
+export default class InputField extends FieldItem{
 
     render() {
 
