@@ -9,7 +9,7 @@ export default class TitleSection extends Logo{
 
         return (
         <h2 
-            className="page-section-heading text-center text-uppercase text-white"
+            className="page-section-heading text-center text-uppercase"
             style={{
                 color: color
             }}

@@ -3,6 +3,7 @@ import NavBar from './components/nav-bar/NavBar'
 import MasterHead from './components/master-head/MasterHead'
 import GridInfo from './components/grid-info/GridInfo'
 import About from './components/about/About'
+import Contact from './components/contact/Contact';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <MasterHead/>
         <GridInfo/>
         <About/>
+        <Contact/>
     </div>
   );
 }
