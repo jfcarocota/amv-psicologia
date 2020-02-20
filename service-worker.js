@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/amv-psicologia/precache-manifest.45e2da6214f1fb4e38698de2c77498bc.js"
+  "/amv-psicologia/precache-manifest.0d08df818cb64ac0a3cd07f3ad8d71cd.js"
 );
 
 self.addEventListener('message', (event) => {
