@@ -1,4 +1,5 @@
 import React from 'react'
+import AnchorLink from 'react-anchor-link-smooth-scroll'
 
 export default class Logo extends React.Component{
     constructor(props){
@@ -12,12 +13,13 @@ export default class Logo extends React.Component{
     render(){
         const {name, color} = this.state;
         return(
-             <a href="#page-top"
-                className="navbar-brand js-scroll-trigger"
-                style={{
-                    color: color
-                }}
-            >{name}</a>
+            <AnchorLink
+             className="navbar-brand js-scroll-trigger" 
+             href="#page-top"
+             style={{
+                color: color
+            }}
+             >{name}</AnchorLink>
         );
     }
 }

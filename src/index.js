@@ -1,8 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 //import './index.css';
-import './freelancer.min.css'
-import '@fortawesome/react-fontawesome'
+
+
+//import './js/jqBootstrapValidation'
+//import './js/freelancer'
+//import './js/contact_me'
+
+import './freelancer.min.css';
+import '@fortawesome/react-fontawesome';
+
 
 import App from './App';
 import * as serviceWorker from './serviceWorker';

@@ -1,4 +1,5 @@
 import React from 'react'
+import AnchorLink from 'react-anchor-link-smooth-scroll'
 
 export default class MenuLink extends React.Component{
 
@@ -14,12 +15,7 @@ export default class MenuLink extends React.Component{
         const {href, name} = this.state;
         return(
             <li className="nav-item mx-0 mx-lg-1">
-                <a 
-                    className="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" 
-                    href={href} 
-                >
-                    {name}
-                </a>
+                <AnchorLink className="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href={href}>{name}</AnchorLink>
             </li>
         );
     }
